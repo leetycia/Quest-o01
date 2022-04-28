@@ -1,3 +1,4 @@
+//Questão01
 package principal;
 public class NovoFat {
     // O atributo num é o número que será calculado o seu fatorial;
